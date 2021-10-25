@@ -10,6 +10,4 @@ public class QuizSiteApiApplication {
 		SpringApplication.run(QuizSiteApiApplication.class, args);
 	}
 
-
-
 }
